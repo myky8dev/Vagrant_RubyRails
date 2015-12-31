@@ -13,7 +13,7 @@ server_timezone  = "Europe/Madrid"
 #   10.0.0.1    - 10.255.255.254
 #   172.16.0.1  - 172.31.255.254
 #   192.168.0.1 - 192.168.255.254
-server_ip             = "172.188.1.10"
+server_ip             = "172.188.2.10"
 server_cpus           = "1"   # Cores
 server_memory         = "1536" # MB
 
